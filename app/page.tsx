@@ -47,13 +47,13 @@ export default function Home() {
   return (
     <main className="shell">
       <header className="topbar">
-        <a className="brand" href="#top"><span className="brand-mark">A</span><span>AXIN<span className="muted">.CC</span><small>LUUAU PROTECTION PLATFORM</small></span></a>
+        <a className="brand" href="#top"><span className="brand-mark">A</span><span>AXIN<span className="muted">.CC</span><small>LUAU PROTECTION PLATFORM</small></span></a>
         <nav><a href="#workbench">工作台</a><a href="#architecture">架构路线</a><a href="https://github.com/zombi584/AXIN-CC" target="_blank" rel="noreferrer">GitHub ↗</a></nav>
         <span className="version">EARLY ACCESS · 0.1.0</span>
       </header>
 
       <section className="hero" id="top">
-        <div className="eyebrow"><span className="pulse" /> LUUAU CODE SECURITY WORKSPACE</div>
+        <div className="eyebrow"><span className="pulse" /> LUAU CODE SECURITY WORKSPACE</div>
         <h1>保护你的代码，<em>掌控每次构建。</em></h1>
         <p>面向 Luau 项目的代码保护工作台。以语义保持、兼容性验证和可审计构建为基础，逐步构建自研编译与运行时体系。</p>
         <div className="hero-meta"><span><i /> 独立项目工作区</span><span><i /> 构建状态透明</span><span><i /> 版本化架构</span></div>
